@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](images/image.png)
+![Weather App](https://raw.githubusercontent.com/Aishwarya-S-Sharma/Weather-App/main/images/image.png)
 
 ## Description
 
